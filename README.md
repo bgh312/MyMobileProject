@@ -9,3 +9,5 @@ FlatList tietojen näyttöön.
 StackNavigator navigointia varten.
 <br />
  StatusBar ja SafeAreaView ulkonäköä ja navigointia varten.
+ <br />
+ webpack.config tiedosto, jotta sovelluksen voi käynnistää selaimessa.
